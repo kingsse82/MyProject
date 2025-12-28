@@ -11,6 +11,7 @@ public class GitMyProjectApplication {
 		
 		System.out.println("=== GitMyProject ===");
 		System.out.println("=== Git Push ===");
+		System.out.println("=== Git main Push ===");
 	}
 
 }
